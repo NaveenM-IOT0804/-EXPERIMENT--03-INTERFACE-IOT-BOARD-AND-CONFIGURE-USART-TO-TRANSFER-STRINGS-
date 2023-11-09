@@ -15,25 +15,23 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 2.click on cntrl+S , automaticall C program will be generated 
 ![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
 ![image](https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png)
-8. edit the program and as per required 
+3.Edit the program and as per required 
 ![image](https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png)
 
-3. use project and build all 
+4. use project and build all 
 ![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
-10. once the project is bulild 
+5. once the project is bulild 
 ![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
 
-4. click on debug option 
+6. click on debug option 
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
-
-5 connect the  ARM board to power supply and usb 
-
+7. connect the  ARM board to power supply and usb 
 ![Screenshot 2023-11-09 105543](https://github.com/NaveenM-IOT0804/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/117974950/eeb03890-4dfb-4022-8d36-374a33f82839)
 
-6. check for execution of the output using run option
-  ![Screenshot 2023-11-09 105605](https://github.com/NaveenM-IOT0804/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/117974950/811f74bb-6d13-4596-a17f-a6d2a497017b)
+8. check for execution of the output using run option
+![Screenshot 2023-11-09 105605](https://github.com/NaveenM-IOT0804/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/117974950/811f74bb-6d13-4596-a17f-a6d2a497017b)
 
-7. Opend serial port utility and check the output
+9. Opend serial port utility and check the output
 
 
 
